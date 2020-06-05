@@ -4,3 +4,6 @@
   dodger.style.backgroundColor = "#FF69B4";
 
 dodger.style.bottom = "0";
+document.addEventListener("keydown", function(e) {
+  console.log(e.key);
+});
