@@ -13,4 +13,3 @@ document.addEventListener("keydown", function(e) {
   }
 });
 let dodger = document.getElementById("dodger");
-
